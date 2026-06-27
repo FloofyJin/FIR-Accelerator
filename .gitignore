@@ -28,3 +28,6 @@ vitis/**/tempdsa
 # Vitis Application
 vitis/**/Debug/
 vitis/**/Release/
+
+# python
+**/venv
